@@ -9,8 +9,9 @@ addEventListener('scheduled', event => {
 // Limit is 25 repositories
 const githubRepositories = [
   'adam-janis/cf-workers-github-releases',
-  'cloudflare/wrangler',
-  'cloudflare/wrangler-action',
+  ' flydoos/DingTalkRevokeMsgPatcher ',
+  'huiyadanli/RevokeMsgPatcher',
+  'Fndroid/clash_for_windows_pkg',
 ]
 
 async function listKV() {
