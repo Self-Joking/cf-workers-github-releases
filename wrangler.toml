@@ -9,4 +9,4 @@ zone_id = ""
 # kv_namespaces = [{binding="KV_GITHUB_RELEASES", id="xxxx"}]
 
 [triggers]
-crons = ["* * * * *"]
+crons = ["0 * * * *"]
