@@ -12,6 +12,7 @@ const githubRepositories = [
   ' flydoos/DingTalkRevokeMsgPatcher ',
   'huiyadanli/RevokeMsgPatcher',
   'Fndroid/clash_for_windows_pkg',
+  'Self-Joking/OI-Codes',
 ]
 
 async function listKV() {
